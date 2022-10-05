@@ -1,5 +1,5 @@
 # CISS_Coulomb Interaction
-The jupyter notebooks in "CISS_CoulombInteraction" work together with the Modules in "Coulomb_Modules"
+The jupyter notebooks in "CISS_CoulombInteraction" work together with the Modules in "Coulomb_Modules_GitHub"
 
 The Onsager-Casimir notebooks serve as verification of time-reversal symmetry at equilibrium in both the Hartree-Fock and Hubbard One Approximation
 
