@@ -9,3 +9,5 @@ With "Helical_HubbardOne_Trapezoid_github.ipynb" and "Helical_HartreeFock_Trapez
 2. Calculate the magnetocurrent as a function of bias voltage.
 3. Plot the "P-value" as a function of bias voltage.
 In the  Hubbard One and Hartree-Fock Approximation respectively.
+
+With "Helical_HartreeFock_OppositeChirality.ipynb" one can verify that the magnetocurrent changes sign between the handednesses of the molecule.
