@@ -12,3 +12,5 @@ With "Helical_HartreeFockV0_LinMix.ipynb" and "Helical_HubbardOneV0_LinMix.ipynb
 In the  Hubbard One and Hartree-Fock Approximation respectively.
 
 The jupyter notebooks in "JupyterNotebooks_Coulomb" work together with the Modules in "Modules_Coulomb_Github". Therefore make sure you import the correct path.
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
